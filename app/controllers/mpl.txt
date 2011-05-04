@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 test
 
 test2
@@ -6,3 +7,6 @@ test4
 
 
 Of your self regard
+=======
+test
+>>>>>>> f67222b602556892be30407954b31b85e28ad161
